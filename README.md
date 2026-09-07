@@ -11,4 +11,4 @@ A Python-based (Flask) Todo application optimized for ARM64 architecture, deploy
 **Core Technologies**
 * Python 3.10, Pytest
 * Docker, GitHub Actions
-* Kubernetes, ArgoCD
+* Kubernetes, ArgoCD 
